@@ -1,1 +1,1 @@
-# Bpod_CapacitivePortInterface
+# Capacitive Port Interface for Bpod State Machine
