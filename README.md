@@ -13,7 +13,7 @@ A drop-in replacement for the [regular port interface](https://www.sanworks.io/s
 | R1       | Digi-Key  |  1  |                                                                                                                                    | 10k ohm resistor            |
 | R2       | Digi-Key  |  1  |                                                                                                                                    | 10 ohm resistor             |
 | R4       | Digi-Key  |  1  |                                                                                                                                    | 2.2k ohm resistor           |
-| Q1       | Digi-Key  |  1  |                                                                                                                                    |                             |
+| Q1       | Digi-Key  |  1  | [SBC847BLT1G](https://www.digikey.com/products/en?keywords=SBC847BLT1G)                                                            | NPN transistor              |
 |          | Digi-Key  |  1  | [3362P-501LF-ND](https://www.digikey.com/products/en?keywords=3362P-501LF-ND)                                                      | 500 ohm trimpot             |
 |          | Digi-Key  |  1  | [277-1721-ND](https://www.digikey.com/products/en?keywords=277-1721-ND)                                                            | 2 pos screw terminal	      |
 |          | Digi-Key  |  1  | [277-1736-ND](https://www.digikey.com/products/en?keywords=277-1736-ND)                                                            | 4 pos screw terminal	      |
