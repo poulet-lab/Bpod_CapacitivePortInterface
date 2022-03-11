@@ -14,4 +14,8 @@ A drop-in replacement for the [regular port interface](https://www.sanworks.io/s
 |          | Digi-Key  |  1  | [3362P-501LF-ND](https://www.digikey.com/products/en?keywords=3362P-501LF-ND)                                                      | 500 ohm trimpot             |
 |          | Digi-Key  |  1  | [277-1721-ND](https://www.digikey.com/products/en?keywords=277-1721-ND)                                                            | 2 pos screw terminal	    |
 |          | Digi-Key  |  1  | [277-1736-ND](https://www.digikey.com/products/en?keywords=277-1736-ND)                                                            | 4 pos screw terminal	    |
+|          | Digi-Key  |  1  | [A31413-ND](https://www.digikey.com/products/en?keywords=A31413-ND)                                                                | Ethernet jack               |
 |          | Lee Valve |  1  | [LHDA1231115H](https://www.theleeco.com/products/electro-fluidic-systems/solenoid-valves/control-valves/lhd-series/3-port/ported/) | Solenoid valve              |
+
+The above BOM is for the ```no_user``` version of the PCB. If you want to access the 
+extra two lines of the RJ45 line (like we do at Poulet-Lab) use the respective version of the PCB (```PortBreakoutCapacitive_r*.brd```) and swap the 4 position screw terminal for a 6 position screw terminal ([277-1738-ND](https://www.digikey.com/products/en?keywords=277-1738-ND)).
