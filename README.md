@@ -18,4 +18,4 @@ A drop-in replacement for the [regular port interface](https://www.sanworks.io/s
 |          | Lee Valve |  1  | [LHDA1231115H](https://www.theleeco.com/products/electro-fluidic-systems/solenoid-valves/control-valves/lhd-series/3-port/ported/) | Solenoid valve              |
 
 The above BOM is for the ```no_user``` version of the PCB. If you want to access the 
-extra two lines of the RJ45 line (like we do at Poulet-Lab) use the respective version of the PCB (```PortBreakoutCapacitive_r*.brd```) and swap the 4 position screw terminal for a 6 position screw terminal ([277-1738-ND](https://www.digikey.com/products/en?keywords=277-1738-ND)).
+extra two lines of the RJ45 connector (like we do at Poulet-Lab) use the respective version of the PCB (```PortBreakoutCapacitive_r*.brd```) and swap the 4 position screw terminal for a 6 position screw terminal ([277-1738-ND](https://www.digikey.com/products/en?keywords=277-1738-ND)).
