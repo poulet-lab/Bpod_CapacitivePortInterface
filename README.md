@@ -6,7 +6,7 @@ A drop-in replacement for the [regular port interface](https://www.sanworks.io/s
 ## Bill of Materials
 | Item     | Vendor    | Qty | Part Number                                                                                                                        | Description                 |
 | :------- | :------   | :-: | :--------------------------------------------------------------------------------------------------------------------------------- | :-------------------------  |
-| C1       | Digi-Key  |  1  | [311-1174-2-ND](https://www.digikey.com/products/en?keywords=311-1174-2-ND)                                                        | 10 nF capacitor (1206)      |
+| C1       | Digi-Key  |  1  | [CC1206JRX7R9BB682-ND](https://www.digikey.com/products/en?keywords=CC1206JRX7R9BB682-ND)                                                        | 6.8 nF capacitor (1206)      |
 | C2, C3   | Digi-Key  |  2  | [311-1179-2-ND](https://www.digikey.com/products/en?keywords=311-1179-2-ND)                                                        | 100 nF capacitor (1206)     |
 | IC1      | Digi-Key  |  1  | [AT42QT1011-TSHRTR-ND](https://www.digikey.com/products/en?keywords=AT42QT1011-TSHRTR-ND)                                          | touch sensor IC             |
 | R1       | Digi-Key  |  1  | [13-RC1206FR-1010KLTR-ND](https://www.digikey.com/products/en?keywords=13-RC1206FR-1010KLTR-ND)                                    | 10k ohm resistor (1206)     |
