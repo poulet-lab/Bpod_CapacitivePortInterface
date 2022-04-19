@@ -10543,18 +10543,12 @@ CONN_04
 <wire x1="63.5" y1="165.1" x2="60.96" y2="165.1" width="0.1524" layer="91"/>
 <label x="60.96" y="165.1" size="1.778" layer="95" rot="R180" xref="yes"/>
 <pinref part="R1" gate="G$1" pin="1"/>
+<junction x="63.5" y="165.1"/>
 </segment>
 </net>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="104,1,33.02,43.18,IC1,VSS,GND,,,"/>
-<approved hash="104,1,68.58,43.18,IC1,VDD,VCC,,,"/>
-<approved hash="113,1,160.697,65.7504,JP1,,,,,"/>
-<approved hash="113,1,90.7627,91.7296,VALVE,,,,,"/>
-<approved hash="113,1,116.096,60.96,R4,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 <compatibility>
