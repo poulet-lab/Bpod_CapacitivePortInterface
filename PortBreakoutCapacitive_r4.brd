@@ -188,6 +188,7 @@
 <text x="29.21" y="-11.43" size="1.27" layer="47" font="vector" ratio="15">Dimensions given are in inches.</text>
 <dimension x1="3.81" y1="-38.1" x2="3.81" y2="-40.64" x3="-2.54" y3="-39.37" textsize="1.27" textratio="15" layer="47" unit="inch"/>
 <dimension x1="3.81" y1="-38.1" x2="1.27" y2="-38.1" x3="2.54" y3="-46.99" textsize="1.27" textratio="15" layer="47" unit="inch"/>
+<text x="13.335" y="7.239" size="1.778" layer="26" font="vector" rot="MR0" align="bottom-center">The Poulet Lab</text>
 </plain>
 <libraries>
 <library name="SparkFun">
