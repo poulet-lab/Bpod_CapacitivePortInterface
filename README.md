@@ -1,6 +1,6 @@
 # Capacitive Port Interface for Bpod State Machine
 
-A drop-in replacement for the [regular port interface](https://www.sanworks.io/shop/viewproduct?productID=1004) enabling for capacitive sensing of lick events.
+<img align="right" src="PortBreakoutCapacitive.png" width=200>A drop-in replacement for the [regular port interface](https://www.sanworks.io/shop/viewproduct?productID=1004) enabling for capacitive sensing of lick events.
 
 
 ## Bill of Materials
